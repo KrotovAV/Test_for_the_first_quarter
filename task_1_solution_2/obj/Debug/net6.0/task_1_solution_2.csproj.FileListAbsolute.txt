@@ -1,0 +1,15 @@
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\bin\Debug\net6.0\task_1_solution_2.exe
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\bin\Debug\net6.0\task_1_solution_2.deps.json
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\bin\Debug\net6.0\task_1_solution_2.runtimeconfig.json
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\bin\Debug\net6.0\task_1_solution_2.dll
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\bin\Debug\net6.0\task_1_solution_2.pdb
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.csproj.AssemblyReference.cache
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.AssemblyInfo.cs
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.dll
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\refint\task_1_solution_2.dll
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.pdb
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\task_1_solution_2.genruntimeconfig.cache
+D:\GeekBrains\My Git\Test_for_the_first_quarter\task_1_solution_2\obj\Debug\net6.0\ref\task_1_solution_2.dll
